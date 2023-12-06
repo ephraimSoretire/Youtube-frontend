@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(9, 9, 9);
+    color: gray;
+}
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.top-bar-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    vertical-align: top;
+}
+
